@@ -1,1 +1,5 @@
-
+print("Hello, World!")
+print("My name is Muhammad Yaseen")
+print("I am learning Python")
+print("DG Khan")
+print("InshaAllah I will become a Python Developer")
