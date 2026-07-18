@@ -38,14 +38,11 @@ This repository contains my complete Python learning journey from beginner to ad
 - Dictionaries
 - File Handling
 - Object-Oriented Programming (OOP)
-
-## 🚀 Projects
+- ## 🚀 Projects
 
 - Calculator
-- Number Guessing Game
+- Password Generator
 - Student Management System
-- File Manager
-- Mini Python Projects
 
 ## 🛠️ Tools
 
